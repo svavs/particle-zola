@@ -1,0 +1,31 @@
+# The URL the site will be built for
+base_url = "https://particle.vercel.app"
+
+title = "A blog about lorem ipsum dolor sit amet"
+description = "A blog about lorem ipsum dolor sit amet"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# The default language; used in feeds.
+default_language = "en"
+
+[extra]
+# User settings
+username = "Anon Developer"
+user_description = "Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS."
+user_title = "Software Developer"
+email = "anon@anon.com"
+twitter_username = "lorem_ipsum"
+github_username =  "lorem_ipsum"
+gplus_username =  "lorem_ipsum"
+
+# Google-analytics
+google_analytics.id = ""
