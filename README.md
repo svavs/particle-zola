@@ -1,4 +1,4 @@
-# Port for Zola of the [Particle](https://github.com/nrandecker/particle) Jekyll theme
+# Port for Zola of the Particle Jekyll theme
 
 ![](./screenshot.jpg)
 
