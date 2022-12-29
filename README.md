@@ -19,24 +19,24 @@ The Theme features:
 
 1. [Install Zola](https://getzola.com)
 2. Clone the particle theme: `git clone https://github.com/svavs/particle-zola.git`
-3. Edit `config.yml` to personalize your site.
+3. Edit `config.toml` to personalize your site.
 
 ## Site and User Settings
 
-You have to fill some informations on the `[extra]` section of the `config.yml` to customize your site.
+You have to fill some informations on the `[extra]` section of the `config.toml` to customize your site.
 
 ```
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description = "A blog about lorem ipsum dolor sit amet"
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: my@email.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username = "Lorem Ipsum"
+user_description = "Anon Developer at Lorem Ipsum Dolor"
+user_title = "Anon Developer"
+email = "my@email.com"
+twitter_username = "lorem_ipsum"
+github_username = "lorem_ipsum"
+gplus_username = "lorem_ipsum"
 ```
 
 ## Color and Particle Customization
