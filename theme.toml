@@ -1,8 +1,8 @@
 name = "particle"
 description = "Particle theme for Zola"
 license = "MIT"
-homepage = "https://github.com/svavs/particle"
-min_version = "0.11.0"
+homepage = "https://github.com/svavs/particle-zola"
+min_version = "0.16.1"
 demo = "https://particle-zola.vercel.app/"
 
 [author]
