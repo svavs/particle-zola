@@ -27,7 +27,7 @@
   <div class="header">
       <h1>
         <span class="site-title">{{ config.extra.username }}</span>
-        <span class="site-description">{{ config.extra.user_title }}</span>
+        <span class="site-description">{{ config.extra.user_title | linebreaksbr | safe }}</span>
       </h1>
       <div class="header-icons">
         <a aria-label="Send email" href="#"><i class="icon fa fa-envelope"></i></a>
